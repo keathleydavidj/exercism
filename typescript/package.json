@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "global": "^4.3.2",
+    "tslint": "^5.8.0"
+  }
+}
